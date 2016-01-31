@@ -7,3 +7,4 @@ function Person(job, married) {
 
 var user = new Person("Codecademy Student",false);
 user.speak();
+
